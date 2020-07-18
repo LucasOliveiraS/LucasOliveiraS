@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**LucasOliveiraS/LucasOliveiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: lucas-oliveira-492723127](https://img.shields.io/badge/-Lucas%20Olivera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-oliveira-492723127/)](https://www.linkedin.com/in/lucas-oliveira-492723127/)
 
-Here are some ideas to get you started:
+I'm a R&D Scientist at Nindoo. Passionate about contributing to projects that improve people's lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Interests
+
+- Artificial Intelligence
+- Blockchain
+- Privacy
+
+### 🔭 Side projects I'm working on:
+(updated at 2020-07-17)
+
+- Neo4j OGM boilerplate
+- Ethereum Dapp
+
+### 📫 How to reach me:
+
+You can reach me out on any channels below!
+
+- I have a blog at [Medium](https://medium.com/@lucasoliveiras)
+- You can also send me an [E-mail](oliveirasp6@gmail.com)
+
+### 😃 Fun facts
+
+I love art 🖼️ and beer 🍺.
