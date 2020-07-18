@@ -21,7 +21,7 @@ I'm a R&D Scientist at Nindoo. Passionate about contributing to projects that im
 You can reach me out on any channels below!
 
 - I have a blog at [Medium](https://medium.com/@lucasoliveiras)
-- You can also send me an [E-mail](oliveirasp6@gmail.com)
+- You can also send me an [email](mailto:oliveirasp6@gmail.com)
 
 ### 😃 Fun facts
 
