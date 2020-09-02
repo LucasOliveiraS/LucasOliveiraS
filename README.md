@@ -10,11 +10,9 @@ I'm a R&D Scientist at Nindoo. Passionate about contributing to projects that im
 - Blockchain
 - Privacy
 
-### 🔭 Side projects I'm working on:
-(updated at 2020-07-17)
+### 🔭 Side project I'm working on:
 
-- Neo4j OGM boilerplate
-- Ethereum Dapp
+- Hipster Projects
 
 ### 📫 How to reach me:
 
