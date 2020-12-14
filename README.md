@@ -2,7 +2,7 @@
 
 [![Linkedin: lucas-oliveira-492723127](https://img.shields.io/badge/-Lucas%20Olivera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-oliveira-492723127/)](https://www.linkedin.com/in/lucas-oliveira-492723127/)
 
-I'm a R&D Scientist at Nindoo. Passionate about contributing to projects that improve people's lives.
+Passionate about contributing to projects that improve people's lives.
 
 ### 💻 Interests
 
