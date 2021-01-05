@@ -20,7 +20,3 @@ You can reach me out on any channels below!
 
 - I have a blog at [Medium](https://medium.com/@lucasoliveiras)
 - You can also send me an [email](mailto:oliveirasp6@gmail.com)
-
-### 😃 Fun facts
-
-I love art 🖼️ and beer 🍺.
